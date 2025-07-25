@@ -21,79 +21,65 @@ export default function StaticLeaderboard() {
   const participants: Participant[] = [
     { 
       id: "1", 
-      name: "Micheal Jackson", 
-      points: 420, 
-      profileImage: "/images/participants/nopfp.png", // Replace with your image
-      website: "https://google.com"
+      name: "Jechtt", 
+      points: 8, 
+      profileImage: "/images/participants/Jechtt.webp", // Replace with your image
+      website: "https://itch.io/jam/lcs-build-00/rate/3748882"
     },
     { 
       id: "2", 
-      name: "Jechtt", 
-      points: 0, 
-      profileImage: "/images/participants/Jechtt.webp", // Replace with your image
-      website: "https://example.com"
+      name: "Kenneth", 
+      points: 6, 
+      profileImage: "/images/participants/Kenneth.webp", // Replace with your image
+      website: "https://itch.io/jam/lcs-build-00/rate/3748873"
     },
     { 
-      id: "3", 
-      name: "Participant 3", 
+      id: "8", 
+      name: "Abi", 
       points: 0, 
       profileImage: "/images/participants/abi.webp", // Replace with your image
-      website: "https://example.com"
+      website: "https://aura-111.itch.io/gilded-juncture"
     },
     { 
-      id: "4", 
-      name: "Participant 4", 
+      id: "10", 
+      name: "Participant", 
       points: 0, 
       profileImage: "/images/participants/nopfp.png", // Replace with your image
       website: "https://example.com"
     },
     { 
       id: "5", 
-      name: "Participant 5", 
-      points: 0, 
+      name: "Felipe", 
+      points: 5, 
       profileImage: "/images/participants/Felipe.webp", // Replace with your image
-      website: "https://example.com"
-    },
-    { 
-      id: "6", 
-      name: "Participant 6", 
-      points: 0, 
-      profileImage: "/images/participants/Shushama.webp", // Replace with your image
-      website: "https://example.com"
+      website: "https://felipebarroscode.itch.io/mountain-adventure-gamejam"
     },
     { 
       id: "7", 
-      name: "Participant 7", 
-      points: 0, 
+      name: "Shushama", 
+      points: 3, 
+      profileImage: "/images/participants/Shushama.webp", // Replace with your image
+      website: "https://aura-111.itch.io/gilded-juncture"
+    },
+    { 
+      id: "6", 
+      name: "Dalbir Singh", 
+      points: 3, 
       profileImage: "/images/participants/nopfp.png", // Replace with your image
-      website: "https://example.com"
+      website: "https://felipebarroscode.itch.io/mountain-adventure-gamejam"
     },
     { 
       id: "8", 
-      name: "Participant 8", 
-      points: 0, 
+      name: "Kei", 
+      points: 3, 
       profileImage: "/images/participants/nopfp.png", // Replace with your image
       website: "https://example.com"
     },
     { 
       id: "9", 
-      name: "Participant 9", 
+      name: "Eshean", 
       points: 0, 
-      profileImage: "/images/participants/nopfp.png", // Replace with your image
-      website: "https://example.com"
-    },
-    { 
-      id: "10", 
-      name: "Participant 10", 
-      points: 0, 
-      profileImage: "/images/participants/nopfp.png", // Replace with your image
-      website: "https://example.com"
-    },
-    { 
-      id: "11", 
-      name: "Participant 11", 
-      points: 0, 
-      profileImage: "/images/participants/nopfp.png", // Replace with your image
+      profileImage: "/images/participants/Eshean.webp", // Replace with your image
       website: "https://example.com"
     },
   ]

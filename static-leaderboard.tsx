@@ -21,72 +21,51 @@ export default function StaticLeaderboard() {
   const participants: Participant[] = [
     { 
       id: "1", 
-      name: "Jechtt", 
+      name: "Jecht - SLASHHHHHH!!!!!", 
       points: 8, 
       profileImage: "/images/participants/Jechtt.webp", // Replace with your image
-      website: "https://itch.io/jam/lcs-build-00/rate/3748882"
+      website: "https://thejecht24.itch.io/slashhhhhh"
     },
     { 
       id: "2", 
-      name: "Kenneth", 
+      name: "Kenneth - Tweaker Gelobal", 
       points: 6, 
       profileImage: "/images/participants/Kenneth.webp", // Replace with your image
-      website: "https://itch.io/jam/lcs-build-00/rate/3748873"
+      website: "https://driedalbumen.itch.io/tweaker-by-gelobal"
     },
     { 
-      id: "8", 
-      name: "Abi", 
-      points: 0, 
-      profileImage: "/images/participants/abi.webp", // Replace with your image
-      website: "https://aura-111.itch.io/gilded-juncture"
-    },
-    { 
-      id: "10", 
-      name: "Participant", 
-      points: 0, 
-      profileImage: "/images/participants/nopfp.png", // Replace with your image
-      website: "https://example.com"
-    },
-    { 
-      id: "5", 
-      name: "Felipe", 
+      id: "3", 
+      name: "Felipe & Dalbir - Mountain Adventures", 
       points: 5, 
       profileImage: "/images/participants/Felipe.webp", // Replace with your image
       website: "https://felipebarroscode.itch.io/mountain-adventure-gamejam"
     },
     { 
-      id: "7", 
-      name: "Shushama", 
+      id: "4", 
+      name: "Abi & Shushama - Guilded Juncture", 
       points: 3, 
-      profileImage: "/images/participants/Shushama.webp", // Replace with your image
+      profileImage: "/images/participants/abi.webp", // Replace with your image
       website: "https://aura-111.itch.io/gilded-juncture"
     },
     { 
-      id: "6", 
-      name: "Dalbir Singh", 
+      id: "5", 
+      name: "Eshean - PongLang", 
       points: 3, 
-      profileImage: "/images/participants/nopfp.png", // Replace with your image
-      website: "https://felipebarroscode.itch.io/mountain-adventure-gamejam"
-    },
-    { 
-      id: "8", 
-      name: "Kei", 
-      points: 3, 
-      profileImage: "/images/participants/nopfp.png", // Replace with your image
-      website: "https://example.com"
-    },
-    { 
-      id: "9", 
-      name: "Eshean", 
-      points: 0, 
       profileImage: "/images/participants/Eshean.webp", // Replace with your image
-      website: "https://example.com"
+      website: "https://eshean.itch.io/poong"
+    },
+    { 
+      id: "6", 
+      name: "Kei & Jackson - Salsa2D", 
+      points: 3, 
+      profileImage: "/images/participants/nopfp.png", // Replace with your image
+      website: "https://itch.io/jam/lcs-build-00/entries"
     },
   ]
 
   // EDIT THESE VALUES FOR THE PROJECT SECTION
-  const projectName = "Project Name"
-  const creatorName = "Name"
+  const projectName = "SLASHHHHHH!!!!!"
+  const creatorName = "Jecht"
   const projectImage = "/images/projects/winner-project.jpg" // Replace with your project image
 
   const getMedalIcon = (position: number) => {

@@ -28,7 +28,7 @@ export default function StaticLeaderboard() {
     },
     { 
       id: "2", 
-      name: "Kenneth - Tweaker Gelobal", 
+      name: "Kenneth - Tweaker By Gelobal", 
       points: 6, 
       profileImage: "/images/participants/Kenneth.webp", // Replace with your image
       website: "https://driedalbumen.itch.io/tweaker-by-gelobal"
